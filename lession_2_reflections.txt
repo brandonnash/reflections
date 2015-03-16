@@ -1,0 +1,2 @@
+Q.what happens when you initalize a repository? why do you need to do this?
+A. you create a unnammed git repository with no tracked files yet, you need to do this to start your version control. 
