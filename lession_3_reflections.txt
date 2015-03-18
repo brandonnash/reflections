@@ -1,0 +1,3 @@
+Q. When would you want to create a remote repository instead of keeping all your work locally?
+A. If i wanted to work from multiple work stations or if multiple people are contributing to one repository, also
+this could be considered a backup even if i am working alone locally. 
